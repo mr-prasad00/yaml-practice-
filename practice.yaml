@@ -1,0 +1,15 @@
+ #key value pair 
+ hi : :"this is sample message "
+----
+ #lists
+ - names
+ - prasad
+ - lakshmi 
+---   #difference betwee blocks represented with three dashes 
+#block 
+ cities:
+  - ji
+  - hello
+  - vanakam
+  ...  #end of code represented with three dots 
+
